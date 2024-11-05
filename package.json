@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Eyejangg.github.io/Portfolio-kub/",
+  "homepage": "https://Eyejangg.github.io/final-frontend-024-Phitharawat/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
